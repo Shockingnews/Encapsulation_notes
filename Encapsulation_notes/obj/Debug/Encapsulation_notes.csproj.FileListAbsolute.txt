@@ -1,0 +1,8 @@
+C:\Users\w0526843\Encapsulation_notes\Encapsulation_notes\bin\Debug\Encapsulation_notes.exe.config
+C:\Users\w0526843\Encapsulation_notes\Encapsulation_notes\bin\Debug\Encapsulation_notes.exe
+C:\Users\w0526843\Encapsulation_notes\Encapsulation_notes\bin\Debug\Encapsulation_notes.pdb
+C:\Users\w0526843\Encapsulation_notes\Encapsulation_notes\obj\Debug\Encapsulation_notes.csproj.AssemblyReference.cache
+C:\Users\w0526843\Encapsulation_notes\Encapsulation_notes\obj\Debug\Encapsulation_notes.csproj.CoreCompileInputs.cache
+C:\Users\w0526843\Encapsulation_notes\Encapsulation_notes\obj\Debug\Encapsulation_notes.exe
+C:\Users\w0526843\Encapsulation_notes\Encapsulation_notes\obj\Debug\Encapsulation_notes.pdb
+C:\Users\w0526843\Encapsulation_notes\Encapsulation_notes\obj\Debug\Encapsulation_notes.exe.config
